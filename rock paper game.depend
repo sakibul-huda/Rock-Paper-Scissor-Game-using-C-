@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701422245 source:l:\programming practice\practice c++\project\rock paper game\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"game.h"
+
+1701422784 l:\programming practice\practice c++\project\rock paper game\include\game.h
+
+1701422747 source:l:\programming practice\practice c++\project\rock paper game\src\game.cpp
+	"game.h"
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
